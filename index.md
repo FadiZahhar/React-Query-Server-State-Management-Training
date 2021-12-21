@@ -155,46 +155,32 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 6. Testing Routes with URL and Query Params
+## 6. Query Features II Transforming
 
-### 1 Introduction to Testing Routes with URL and Query Params
-<iframe src="https://player.vimeo.com/video/656479327" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Filtering Data with the useQuery select Option
+<iframe src="https://player.vimeo.com/video/654561588" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 OPTIONAL Introduction to Mock Service Worker
-<iframe src="https://player.vimeo.com/video/656479447" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 Code Quiz! Selector for useStaff
+<iframe src="https://player.vimeo.com/video/654561787" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 3 OPTIONAL Setting up Mock Service Worker
-<iframe src="https://player.vimeo.com/video/656479650" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 Intro to Re-Fetch
+<iframe src="https://player.vimeo.com/video/654561939" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 4 OPTIONAL Testing Shows Component with Mock Service Worker
-<iframe src="https://player.vimeo.com/video/656480263" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 4 Update Re-Fetch Options
+<iframe src="https://player.vimeo.com/video/654562067" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 5 OPTIONAL Code Quiz! Mock Service Worker for Sold-Out Show
-<iframe src="https://player.vimeo.com/video/656481264" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 5 Global Re-Fetch Options
+<iframe src="https://player.vimeo.com/video/654562221" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 6 Testing a Route with URL Params
-<iframe src="https://player.vimeo.com/video/656481494" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 6 Overriding Re-Fetch Defaults and Polling
+<iframe src="https://player.vimeo.com/video/654562372" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 7 Writing Handler for Route with URL Params
-<iframe src="https://player.vimeo.com/video/656481737" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 7 Polling Auto Re-Fetching at an Interval
+<iframe src="https://player.vimeo.com/video/654562530" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 8 Testing Page Contents for Route with URL Params
-<iframe src="https://player.vimeo.com/video/656482165" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 8 Summary Query Features II
+<iframe src="https://player.vimeo.com/video/654562641" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 9 Code Quiz! Page Contents of Route with URL Params
-<iframe src="https://player.vimeo.com/video/656482568" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 10 Redirecting to Route with URL Params
-<iframe src="https://player.vimeo.com/video/656483039" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 11 Redirecting to Route with URL and Query Params
-<iframe src="https://player.vimeo.com/video/656483880" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 12 Code Quiz! Bad Query Params
-<iframe src="https://player.vimeo.com/video/656484866" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 13 Review Routes with URL and Query Params
-<iframe src="https://player.vimeo.com/video/656485189" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
