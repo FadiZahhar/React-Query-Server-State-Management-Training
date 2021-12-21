@@ -93,43 +93,37 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <iframe src="https://player.vimeo.com/video/654559353" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
-## 4. Testing Saga with Fork
+## 4. React Query in Larger App Set
 
-### 1 Introduction to Sign In Sagas
-<iframe src="https://player.vimeo.com/video/656467682" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Intro to Lazy Days Spa App
+<iframe src="https://player.vimeo.com/video/654559408" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 Set Up signInSaga Test File
-<iframe src="https://player.vimeo.com/video/656468252" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 Lazy Days Spa App Code Orientation
+<iframe src="https://player.vimeo.com/video/654559527" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 3 Testing Successful Sign-in silentRun and Timeout
-<iframe src="https://player.vimeo.com/video/656468454" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 Install and set up React Query
+<iframe src="https://player.vimeo.com/video/654559650" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 4 Return Value from Network Provider
-<iframe src="https://player.vimeo.com/video/656469545" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 4 Custom Query Hook useTreatments
+<iframe src="https://player.vimeo.com/video/654559823" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 5 Code Quiz! Sign Up Flow
-<iframe src="https://player.vimeo.com/video/656469984" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 5 Fallback Data
+<iframe src="https://player.vimeo.com/video/654559949" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 6 Integration Test for Canceled Fork
-<iframe src="https://player.vimeo.com/video/656470426" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 6 Centralized Fetching indicator with useIsFetching
+<iframe src="https://player.vimeo.com/video/654560021" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 7 Code Quiz! Error Path
-<iframe src="https://player.vimeo.com/video/656471598" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 7 onError Handler for useQuery
+<iframe src="https://player.vimeo.com/video/654560108" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 8 Introduction to redux-saga-test-plan Unit Tests
-<iframe src="https://player.vimeo.com/video/656471919" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 8 onError Default for Query Client
+<iframe src="https://player.vimeo.com/video/654560251" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 9 Cancel Flow Unit Test
-<iframe src="https://player.vimeo.com/video/656472217" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 9 Code Quiz! Custom Hook for useStaff
+<iframe src="https://player.vimeo.com/video/654560369" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 10 Code Quiz! Unit Tests
-<iframe src="https://player.vimeo.com/video/656473413" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 11 Review Fork, Cancel, Infinite while Loop
-<iframe src="https://player.vimeo.com/video/656473727" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 12 Getting Help with Saga Tests
-<iframe src="https://player.vimeo.com/video/656473834" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 10 Summary Larger App Setup, Centralization, Custom Hooks
+<iframe src="https://player.vimeo.com/video/654560479" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
