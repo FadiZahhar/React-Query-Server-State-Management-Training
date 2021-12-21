@@ -184,7 +184,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 7. Testing Auth-Protected Routes
+## 7. React Query and Authentication
 
 ### 1 Intro to React Query and Authentication
 <iframe src="https://player.vimeo.com/video/654562679" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
@@ -212,46 +212,40 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 7. Testing Auth-Protected Routes
+## 8. Mutations 
 
-### 1 Intro to Testing Auth-Protected Routes
-<iframe src="https://player.vimeo.com/video/656485418" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Introduction to Mutations and Mutations Global Settings
+<iframe src="https://player.vimeo.com/video/654563712" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 Test for Non-Protected Route
-<iframe src="https://player.vimeo.com/video/656485676" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 Custom Mutation Hook useReserveAppointments
+<iframe src="https://player.vimeo.com/video/654563794" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 3 OPTIONAL Introduction to Parametrization with testeach()
-<iframe src="https://player.vimeo.com/video/656486191" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 OPTIONAL TypeScript for `mutate` Function
+<iframe src="https://player.vimeo.com/video/654563948" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 4 Parametrizing Non-Protected Page Tests with testeach()
-<iframe src="https://player.vimeo.com/video/656486479" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 4 Invalidating Query after Mutation
+<iframe src="https://player.vimeo.com/video/654564068" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 5 Planning Protected Route Tests
-<iframe src="https://player.vimeo.com/video/656487399" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 5 Query Key Prefixes
+<iframe src="https://player.vimeo.com/video/654564201" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 6 Code Quiz! Redirect to Sign-In for Protected Routes
-<iframe src="https://player.vimeo.com/video/656487751" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 6 Code Quiz! Mutation to Cancel an Appointment
+<iframe src="https://player.vimeo.com/video/654564367" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 7 Parametrizing Sign-In Redirect
-<iframe src="https://player.vimeo.com/video/656488032" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 7 Update User and Query Cache with Mutation Response
+<iframe src="https://player.vimeo.com/video/654564484" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 8 SignIn  SignUp Handlers for Mock Service Worker
-<iframe src="https://player.vimeo.com/video/656488308" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 8 Intro to Optimistic Updates in React Query
+<iframe src="https://player.vimeo.com/video/654564766" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 9 Planning Tests for Protected Route Redirect after Sign-In
-<iframe src="https://player.vimeo.com/video/656488995" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 9 Making a Query Cancel-able
+<iframe src="https://player.vimeo.com/video/654564935" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 10 Starting Test for Protected Route Redirect after Sign In
-<iframe src="https://player.vimeo.com/video/656489483" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 10 Writing Optimistic Update
+<iframe src="https://player.vimeo.com/video/654565129" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 11 Completing Test for Protected Route Redirect after Sign In
-<iframe src="https://player.vimeo.com/video/656490259" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 12 Code Quiz! Successful Sign-Up
-<iframe src="https://player.vimeo.com/video/656491016" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 13 Testing Failed SignIn Followed by Successful SignIn
-<iframe src="https://player.vimeo.com/video/656491638" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 11 Summary Mutations
+<iframe src="https://player.vimeo.com/video/654565523" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
