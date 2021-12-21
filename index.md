@@ -29,28 +29,37 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 2. Using redux-saga-test-plan
+## 2. Pagination and Pre-fetching
 
-### 1 Introduction to Testing Redux Sagas
-<iframe src="https://player.vimeo.com/video/656457655" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Intro to Code Quizzes
+<iframe src="https://player.vimeo.com/video/654556765" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 Introduction to redux-saga-test-plan
-<iframe src="https://player.vimeo.com/video/656457960" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 Code Quiz! Create Query for Blog Comments
+<iframe src="https://player.vimeo.com/video/654556870" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 3 Introduction to logErrorToast Saga
-<iframe src="https://player.vimeo.com/video/656458217" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 Query Keys
+<iframe src="https://player.vimeo.com/video/654557055" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 4 First Saga Test
-<iframe src="https://player.vimeo.com/video/656458410" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 4 Pagination
+<iframe src="https://player.vimeo.com/video/654557206" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 5 Code Quiz! Non-Error Toast
-<iframe src="https://player.vimeo.com/video/656459185" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 5 Pre-fetching Data
+<iframe src="https://player.vimeo.com/video/654557347" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 6 Partial Assertions
-<iframe src="https://player.vimeo.com/video/656459542" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 6 isLoading vs isFetching
+<iframe src="https://player.vimeo.com/video/654557505" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 7 Review redux-saga-test-plan Introduction
-<iframe src="https://player.vimeo.com/video/656459925" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 7 Intro to Mutations
+<iframe src="https://player.vimeo.com/video/654557647" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 8 Delete Post with useMutation
+<iframe src="https://player.vimeo.com/video/654557724" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 9 Code Quiz! Mutation to Update Post Title
+<iframe src="https://player.vimeo.com/video/654557898" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 10 Summary React Query Basics
+<iframe src="https://player.vimeo.com/video/654558006" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
