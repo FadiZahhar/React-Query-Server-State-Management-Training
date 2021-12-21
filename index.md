@@ -186,56 +186,30 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## 7. Testing Auth-Protected Routes
 
-### 1 Intro to Testing Auth-Protected Routes
-<iframe src="https://player.vimeo.com/video/656485418" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Intro to React Query and Authentication
+<iframe src="https://player.vimeo.com/video/654562679" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 Test for Non-Protected Route
-<iframe src="https://player.vimeo.com/video/656485676" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 useAuth, useUser and useQuery
+<iframe src="https://player.vimeo.com/video/654562863" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 3 OPTIONAL Introduction to Parametrization with testeach()
-<iframe src="https://player.vimeo.com/video/656486191" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 Integrate Auth with React Query
+<iframe src="https://player.vimeo.com/video/654563005" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 4 Parametrizing Non-Protected Page Tests with testeach()
-<iframe src="https://player.vimeo.com/video/656486479" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 4 Persist User Data in localStorage
+<iframe src="https://player.vimeo.com/video/654563201" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 5 Planning Protected Route Tests
-<iframe src="https://player.vimeo.com/video/656487399" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 5 initialData from localStorage for useQuery
+<iframe src="https://player.vimeo.com/video/654563256" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 6 Code Quiz! Redirect to Sign-In for Protected Routes
-<iframe src="https://player.vimeo.com/video/656487751" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 6 Dependent Queries userAppointments
+<iframe src="https://player.vimeo.com/video/654563356" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 7 Parametrizing Sign-In Redirect
-<iframe src="https://player.vimeo.com/video/656488032" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 7 Query Client removeQueries method
+<iframe src="https://player.vimeo.com/video/654563553" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 8 SignIn  SignUp Handlers for Mock Service Worker
-<iframe src="https://player.vimeo.com/video/656488308" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 8 Summary React Query and Auth
+<iframe src="https://player.vimeo.com/video/654563650" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 9 Planning Tests for Protected Route Redirect after Sign-In
-<iframe src="https://player.vimeo.com/video/656488995" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 10 Starting Test for Protected Route Redirect after Sign In
-<iframe src="https://player.vimeo.com/video/656489483" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 11 Completing Test for Protected Route Redirect after Sign In
-<iframe src="https://player.vimeo.com/video/656490259" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 12 Code Quiz! Successful Sign-Up
-<iframe src="https://player.vimeo.com/video/656491016" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 13 Testing Failed SignIn Followed by Successful SignIn
-<iframe src="https://player.vimeo.com/video/656491638" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 14 Code Quiz! Server Error on Sign In
-<iframe src="https://player.vimeo.com/video/656493500" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 15 Code Quiz! Parametrizing Unsuccessful Sign In  Sign Up
-<iframe src="https://player.vimeo.com/video/656493836" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 16 Review Auth-Protected Routes
-<iframe src="https://player.vimeo.com/video/656494212" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 17 Congratulations and Thank You!
-<iframe src="https://player.vimeo.com/video/656494336" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## 7. Testing Auth-Protected Routes
