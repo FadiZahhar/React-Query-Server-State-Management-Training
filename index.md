@@ -63,55 +63,34 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 3. Testing Complex Saga
+## 3. Infinite Queries for Loading
 
-### 1 Introduction to ticketFlow Saga
-<iframe src="https://player.vimeo.com/video/656460106" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Introduction to Infinite Scroll
+<iframe src="https://player.vimeo.com/video/654558090" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 Set up ticketFlow Saga Test File
-<iframe src="https://player.vimeo.com/video/656460458" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 Code Quiz! Set up Infinite SWAPI for React Query
+<iframe src="https://player.vimeo.com/video/654558213" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 3 Error from not Returning `expectSaga`
-<iframe src="https://player.vimeo.com/video/656460845" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 Intro to useInfiniteQuery
+<iframe src="https://player.vimeo.com/video/654558373" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 4 Mocking with `provide()` method
-<iframe src="https://player.vimeo.com/video/656461380" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 4 Infinite Scroll Diagram
+<iframe src="https://player.vimeo.com/video/654558521" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 5 Dispatching Actions with `dispatch()` method
-<iframe src="https://player.vimeo.com/video/656461995" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 5 Write useInfiniteQuery Call
+<iframe src="https://player.vimeo.com/video/654558635" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 6 `throwError()` Method to Test Error Paths
-<iframe src="https://player.vimeo.com/video/656462663" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 6 InfiniteScroll Component
+<iframe src="https://player.vimeo.com/video/654558816" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 7 Code Quiz! Assertions
-<iframe src="https://player.vimeo.com/video/656463222" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 7 useInfiniteQuery Fetching and Error states
+<iframe src="https://player.vimeo.com/video/654559024" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 8 Abstracting cancelTransaction Saga Tests and Network Providers
-<iframe src="https://player.vimeo.com/video/656463546" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 8 Code Quiz! Infinite Species
+<iframe src="https://player.vimeo.com/video/654559187" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 9 Code Quiz! Purchase Error
-<iframe src="https://player.vimeo.com/video/656463859" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 10 Asserting on Axios Cancel Call
-<iframe src="https://player.vimeo.com/video/656464459" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 11 Testing Race Effect
-<iframe src="https://player.vimeo.com/video/656465065" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 12 OPTIONAL Code Quiz! Successful Purchase
-<iframe src="https://player.vimeo.com/video/656465627" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 13 OPTIONAL Code Quiz! Hold Cancel
-<iframe src="https://player.vimeo.com/video/656466068" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 14 Parametrization with `testeach()`
-<iframe src="https://player.vimeo.com/video/656466594" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 15 Review Complex takeEvery Saga Tests
-<iframe src="https://player.vimeo.com/video/656467513" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-
-
+### 9 Summary Infinite Scroll
+<iframe src="https://player.vimeo.com/video/654559353" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## 4. Testing Saga with Fork
